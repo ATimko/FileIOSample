@@ -1,0 +1,20 @@
+C:\Users\ATimko\source\repos\FileIOSample\FileIOSample\bin\Debug\FileIOSample.exe.config
+C:\Users\ATimko\source\repos\FileIOSample\FileIOSample\bin\Debug\FileIOSample.exe
+C:\Users\ATimko\source\repos\FileIOSample\FileIOSample\bin\Debug\FileIOSample.pdb
+C:\Users\ATimko\source\repos\FileIOSample\FileIOSample\obj\Debug\FileIOSample.csprojAssemblyReference.cache
+C:\Users\ATimko\source\repos\FileIOSample\FileIOSample\obj\Debug\FileIOSample.Form1.resources
+C:\Users\ATimko\source\repos\FileIOSample\FileIOSample\obj\Debug\FileIOSample.Properties.Resources.resources
+C:\Users\ATimko\source\repos\FileIOSample\FileIOSample\obj\Debug\FileIOSample.csproj.GenerateResource.cache
+C:\Users\ATimko\source\repos\FileIOSample\FileIOSample\obj\Debug\FileIOSample.csproj.CoreCompileInputs.cache
+C:\Users\ATimko\source\repos\FileIOSample\FileIOSample\obj\Debug\FileIOSample.exe
+C:\Users\ATimko\source\repos\FileIOSample\FileIOSample\obj\Debug\FileIOSample.pdb
+E:\All Files net\FileIOSample\FileIOSample\bin\Debug\FileIOSample.exe.config
+E:\All Files net\FileIOSample\FileIOSample\bin\Debug\FileIOSample.exe
+E:\All Files net\FileIOSample\FileIOSample\bin\Debug\FileIOSample.pdb
+E:\All Files net\FileIOSample\FileIOSample\obj\Debug\FileIOSample.csprojAssemblyReference.cache
+E:\All Files net\FileIOSample\FileIOSample\obj\Debug\FileIOSample.Form1.resources
+E:\All Files net\FileIOSample\FileIOSample\obj\Debug\FileIOSample.Properties.Resources.resources
+E:\All Files net\FileIOSample\FileIOSample\obj\Debug\FileIOSample.csproj.GenerateResource.cache
+E:\All Files net\FileIOSample\FileIOSample\obj\Debug\FileIOSample.csproj.CoreCompileInputs.cache
+E:\All Files net\FileIOSample\FileIOSample\obj\Debug\FileIOSample.exe
+E:\All Files net\FileIOSample\FileIOSample\obj\Debug\FileIOSample.pdb
